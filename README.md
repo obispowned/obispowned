@@ -5,12 +5,12 @@
 <div align="center">
   <h2 align="center">Sobre mí</h1>
   <p>
-    - Hace 3 años comencé en el mundo de la programación.
+Hace 3 años comencé en el mundo de la programación.
 Después de realizar una prueba de selección presencial de 28 días, fui seleccionado para entrar en 42Madrid.
 He realizado proyectos en C sobre fundamentos de la programación, aprendiendo con profundidad las bases y conceptos mas avanzados como: funcionamiento de stacks, hilos y procesos, CLEAN code...
 En paralelo comencé a cursar el Ciclo superior de DAM, donde he aprendido SQL, Java, Kotlin y fue la puerta al desarrollo Android.
 
-- Después de 3 años y haber realizado proyectos variados, he encontrado mi sitio en el desarrollo movil, aprendiendo y apostando por tecnologias actuales como Jetpack Compose, KMM y firebase, donde tengo el foco en mis siguientes pasos.</p>
+Después de 3 años y haber realizado proyectos variados, he encontrado mi sitio en el desarrollo movil, aprendiendo y apostando por tecnologias actuales como Jetpack Compose, KMM y firebase, donde tengo el foco en mis siguientes pasos.</p>
 </div>
 
 <div align="center">
