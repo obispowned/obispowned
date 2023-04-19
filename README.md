@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.postimg.cc/C5MFkCk7/BANNER-GITHUB-copia.jpg">
 <div align="center">
-  <h2 align="center">👨🏻‍💻  Sobre mí  👨🏻‍💻</h1>
+  <h2 align="center">👨🏻‍💻 &nbsp;Sobre mí&nbsp; 👨🏻‍💻</h1>
   <p>
 Hace 3 años comencé en el mundo de la programación.
 Después de realizar una prueba de selección presencial de 28 días, fui seleccionado para entrar en 42Madrid.
@@ -14,7 +14,7 @@ Después de 3 años y haber realizado proyectos variados, he encontrado mi sitio
 </div>
 
 <div align="center">
-  <h2 align="center">⚙️ &nbsp;GitHub Analytics ⚙️</h1>
+  <h2 align="center">⚙️ &nbsp;GitHub Analytics&nbsp; ⚙️</h1>
 </div>
 <p align="center">
 <a href="https://github.com/obispowned">
