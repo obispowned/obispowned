@@ -5,12 +5,9 @@
 <div align="center">
   <h2 align="center">👨🏻‍💻 &nbsp;Sobre mí&nbsp; 👨🏻‍💻</h1>
   <p>
-Hace 3 años comencé en el mundo de la programación.
-Después de realizar una prueba de selección presencial de 28 días, fui seleccionado para entrar en 42Madrid.
-He realizado proyectos en C sobre fundamentos de la programación, aprendiendo con profundidad las bases y conceptos mas avanzados como: funcionamiento de stacks, manejo de punteros y coleccion de datos, hilos y procesos, CLEAN code...
-En paralelo comencé a cursar el Ciclo superior de DAM, donde he aprendido SQL, Java, Kotlin y fue la puerta al desarrollo Android.
+Hace tres años me introduje en el mundo de la programación y, después de superar una prueba de selección presencial de 28 días, fui seleccionado para ingresar en 42Madrid. Durante este tiempo, he realizado proyectos en C centrados en los fundamentos de la programación, profundizando en conceptos avanzados como el funcionamiento de las estructuras de datos, el manejo de punteros, la programación concurrente, el código limpio, entre otros. Además, durante este período, comencé a cursar el ciclo superior de Desarrollo de Aplicaciones Multiplataforma (DAM) donde he adquirido habilidades en SQL, Java y Kotlin, lo que me ha permitido incursionar en el desarrollo de aplicaciones móviles para Android.
 
-Después de 3 años y haber realizado proyectos variados, he encontrado mi sitio en el desarrollo movil, aprendiendo y apostando por tecnologias actuales como Jetpack Compose, KMM y firebase, donde tengo el foco en mis siguientes pasos.</p>
+Después de tres años de experiencia y haber realizado diversos proyectos, he encontrado mi vocación en el desarrollo móvil. Me enfoco en el aprendizaje y la aplicación de tecnologías actuales como Jetpack Compose, KMM y Firebase. Mi objetivo es seguir creciendo y ampliando mis habilidades en esta área.</p>
 </div>
 
 <div align="center">
