@@ -1,7 +1,9 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/%C3%A1lvaro-guti%C3%A9rrez-6b17501a7/">Álvaro</a>👋</h1>
 </div>
-<img src="https://i.postimg.cc/C5MFkCk7/BANNER-GITHUB-copia.jpg" width="500" style="display: block; margin: 0 auto;">
+<div align="center">
+  <img src="https://i.postimg.cc/C5MFkCk7/BANNER-GITHUB-copia.jpg" width="600">
+</div>
 <div align="center">
   <h2 align="center">👨🏻‍💻 &nbsp;Sobre mí&nbsp; 👨🏻‍💻</h1>
   <p>
