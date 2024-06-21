@@ -11,7 +11,7 @@ Llevo más de un año trabajando en el desarrollo de mobile, principalmente Andr
 
 He trabajado con arquitecturas MVVM y CLEAN, con librerias de inyeccion de dependencias, consumo de API REST y con firebase.
 
-Actualmente, estoy ampliando mis conocimientos en Kotlin Multiplatform, tecnologías que permite compartir código entre diferentes plataformas (Android, iOS, Web, etc.), lo cual considero una evolución en mi carrera como desarrollador.
+Actualmente, estoy ampliando mis conocimientos en Kotlin Multiplatform, tecnología que permite compartir código entre diferentes plataformas (Android, iOS, Web, etc.), lo cual considero una evolución en mi carrera como desarrollador.
 
 Mi objetivo profesional es continuar mejorando mis habilidades y aprendiendo, y seguir formando parte de proyectos desafiantes e innovadores. Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración.</div>
 
