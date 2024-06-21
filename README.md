@@ -7,10 +7,13 @@
 <div align="center">
   <h2 align="center">👨🏻‍💻 &nbsp;Sobre mí&nbsp; 👨🏻‍💻</h1>
   <p>
-Hace tres años me introduje en el mundo de la programación y, después de superar una prueba de selección presencial de 28 días, fui seleccionado para ingresar en 42Madrid. Durante este tiempo, he realizado proyectos en C centrados en los fundamentos de la programación, profundizando en conceptos avanzados como el funcionamiento de las estructuras de datos, el manejo de punteros, la programación concurrente, el código limpio, entre otros. Además, durante este período, comencé a cursar el ciclo superior de Desarrollo de Aplicaciones Multiplataforma (DAM) donde he adquirido habilidades en SQL, Java y Kotlin, lo que me ha permitido incursionar en el desarrollo de aplicaciones móviles para Android.
+Llevo más de un año trabajando en el desarrollo de mobile, principalmente Android. Durante este tiempo, he adquirido experiencia en Kotlin, utilizando tanto Jetpack Compose como vistas XML.
 
-Después de tres años de experiencia y haber realizado diversos proyectos, he encontrado mi vocación en el desarrollo móvil. Me enfoco en el aprendizaje y la aplicación de tecnologías actuales como Jetpack Compose, KMM y Firebase. Mi objetivo es seguir creciendo y ampliando mis habilidades en esta área.</p>
-</div>
+He trabajado con arquitecturas MVVM y CLEAN, con librerias de inyeccion de dependencias, consumo de API REST y con firebase.
+
+Actualmente, estoy ampliando mis conocimientos en Kotlin Multiplatform, tecnologías que permite compartir código entre diferentes plataformas (Android, iOS, Web, etc.), lo cual considero una evolución en mi carrera como desarrollador.
+
+Mi objetivo profesional es continuar mejorando mis habilidades y aprendiendo, y seguir formando parte de proyectos desafiantes e innovadores. Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración.</div>
 
 <div align="center">
   <h2 align="center">⚙️ &nbsp;GitHub Analytics&nbsp; ⚙️</h1>
